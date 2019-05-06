@@ -115,7 +115,7 @@ aggregated_data_applications_worktime.columns = aggregated_data_applications_wor
 aggregated_data_applications_responsetime=aggregated_data_applications_worktime/aggregated_data_applications_throughput
 
 
-aggregated_data_applications_throughput.plot(figsize=(12,8))
+aggregated_data_applications_throughput.plot(figsize = (12,8))
 plt.savefig("task1_1.png")
 
 aggregated_data_applications_responsetime.plot(figsize = (12,8))
