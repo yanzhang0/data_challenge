@@ -24,7 +24,7 @@ def from_sql_to_ts(query,db):
     function to get timeseries data from database connection db 
     
     query: sql to query the database
-    db connectuin to db
+    db connection to database
     
     This function does not open and close database connection!
     """    
