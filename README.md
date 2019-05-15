@@ -4,7 +4,7 @@ playground for data engineering
 all text files are stored in the subfolder "./events"
 
 
-In addition to the standalone version with sql, a more complicated version with spark and kafka is provided. 
+# In addition to the standalone version with sql, a more complicated version with spark and kafka is provided. 
 
 Files in the folder data_engineering_with_kafka_spark together simulate a process to use kafka and spark to process data. 
 
